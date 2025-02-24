@@ -1,53 +1,87 @@
-# 👋 Hi, I'm Sagar Choudhury
+# 👋 Hi, I'm Sagar Choudhury  
 
-Welcome to my GitHub! I’m a dedicated **Data Analyst and Data Scientist** with a strong foundation in **data analytics, machine learning, and visualization**. Leveraging my **B.Sc. in Chemistry** and a **Data Science Certification from Simplilearn (in collaboration with IBM)**, I've embarked on a journey to extract insights from data to drive strategic decisions and business growth.
+Welcome to my GitHub! I’m a **Data Analyst with 3 years of experience**, specializing in **data analytics, business intelligence, and predictive analytics**. I leverage my expertise in **SQL, Python, Tableau, Power BI, and cloud-based data solutions** to extract meaningful insights that drive business growth.  
 
----
+---  
 
-### 🌐 About Me
-- 💼 Currently based in **Bangalore, India**, actively seeking opportunities to create impact through data.
-- 📈 Focused on continuous growth in **Big Data tools** (Hadoop, Spark), **data modeling**, and **modern data architectures**.
-- 🌱 Passionate about **Machine Learning**, **Data Visualization**, and **Predictive Analytics**.
+## 🚀 **About Me**  
+- 💡 **Data Analyst @ Corefront Technologies Pvt. Ltd.**  
+- 📍 **Bangalore, India** | Open to **collaborations & opportunities**  
+- 📊 Passionate about **data storytelling, ETL pipelines, and business intelligence**  
+- 🛠 Exploring **AWS (S3, Redshift, Athena, Glue), Google BigQuery, and automation**  
 
----
+---  
 
-### 🛠️ Technical Skills
-- **Programming & Analysis**: Python, SQL, R, Advanced Excel
-- **Data Visualization**: Power BI, Tableau
-- **Machine Learning & AI**: scikit-learn, TensorFlow, PyTorch
-- **Big Data & Cloud**: Exploring Hadoop, Spark, and Azure Fundamentals
-- **Other Tools**: Git, ETL, DevOps basics (Docker)
+## 🛠 **Technical Skills**  
+### **📌 Programming & Data Analysis**  
+✔ **Python** (Pandas, NumPy, SciPy, Matplotlib, Seaborn, scikit-learn)  
+✔ **SQL** (MySQL, PostgreSQL, Snowflake)  
 
----
+### **📌 Data Visualization & Business Intelligence**  
+✔ **Tableau | Power BI | Excel (Pivot Tables, VLOOKUP, DAX, Macros)**  
+✔ **Data Storytelling | KPI Dashboards | Business Analytics**  
 
-### 🚀 Featured Projects
-- **Walmart Retail Data Analysis**: Conducted an in-depth analysis of retail sales data to identify key sales trends, seasonal patterns, and growth opportunities.
-- **Heart Attack Prediction**: Built a predictive model using machine learning algorithms to assess heart attack risk based on patient health indicators.
-- **Asteroid Dataset Analysis**: Comprehensive analysis covering classification, clustering, anomaly detection, and orbit prediction to identify high-risk asteroids.
-- **Amazon Sales Analysis (Internship)**: Analyzed factors impacting sales trends and profitability, using techniques like time series analysis and regression modeling.
+### **📌 Cloud & Big Data**  
+✔ **AWS (S3, Redshift, Athena, Glue)** | **Google BigQuery**  
+✔ **ETL Pipelines | Data Warehousing | API Integration**  
 
-Each project showcases my abilities in **data cleaning, exploration, modeling, and visualization**, with a focus on deriving actionable insights.
-
----
-
-### 📊 Professional Highlights
-- Completed a **Data Science Certification** with a focus on machine learning, data visualization, and statistical modeling.
-- **Interned at Unified Mentor Private Limited**, where I contributed to projects on **sales analysis, loan data analysis**, and **database restructuring**.
-- Demonstrated expertise in **SQL**, **Python**, and **BI tools (Power BI, Tableau)** to deliver data-driven insights for business decision-making.
+### **📌 Machine Learning & Statistical Modeling**  
+✔ **Regression, Time Series, A/B Testing, Hypothesis Testing**  
+✔ **Classification (Random Forest, Logistic Regression, Gradient Boosting)**  
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn**: [Sagar Choudhury](https://www.linkedin.com/in/sagarchoudhury456/)
-- **Email**: [sagarchoudhury456@gmail.com](mailto:sagarchoudhury456@gmail.com)
+## 📈 **Experience**  
+### **💼 Corefront Technologies Pvt. Ltd.**  
+**📌 Data Analyst | Apr 2024 – Present**  
+- **Led** data-driven initiatives, improving operational efficiency by **20%**.  
+- **Built** end-to-end **ETL pipelines**, reducing reporting errors by **30%**.  
+- **Designed & automated** **Tableau dashboards**, cutting manual reporting by **35%**.  
+- **Engineered** predictive analytics models, boosting forecast accuracy by **15%**.  
 
-I’m always eager to connect with fellow data enthusiasts, collaborate on open-source projects, or discuss new opportunities!
+**📌 Data Analyst | May 2023 – Mar 2024**  
+- **Optimized** SQL queries, reducing data retrieval time by **30%**.  
+- **Developed** predictive models, improving trend forecasting accuracy by **85%**.  
+- **Automated** ETL workflows using Python & SQL, saving **40% manual effort**.  
+- **Conducted A/B testing**, increasing **ROI by 15%** in marketing campaigns.  
+
+**📌 Junior Data Analyst | May 2022 – Apr 2023**  
+- **Analyzed** large datasets, providing actionable insights, improving efficiency by **15%**.  
+- **Created** real-time Power BI dashboards using **DAX queries**, optimizing KPI tracking.  
+- **Developed** Excel-based **financial models**, reducing costs by **10%**.  
 
 ---
 
-### 🌱 What’s Next?
-I’m expanding my skills in **Big Data**, **DevOps**, and **Cloud** to deepen my expertise in data infrastructure and pipeline development. I’m particularly interested in **modern data architectures** (data lakes, warehouses) and **real-time data streaming tools** like Kafka and AWS Glue.
+## 🔬 **Projects**  
+### **1️⃣ Asteroid Risk Classification & Orbit Prediction**  
+- **Built** a classification model with **92% accuracy** to detect hazardous asteroids.  
+- **Developed** orbit prediction models using **LSTM (RMSE: 0.27)**.  
+- **Implemented** anomaly detection with **Isolation Forest (89% recall)**.  
+
+### **2️⃣ Walmart Retail Data Analysis**  
+- **Performed sales forecasting** using time-series models.  
+- **Identified revenue trends & customer behavior** through Tableau dashboards.  
+
+### **3️⃣ Amazon Sales Analysis (Internship)**  
+- **Extracted & analyzed** sales trends using **SQL & Python**.  
+- **Developed** a Power BI dashboard for real-time sales tracking.  
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories, and reach out if you’d like to collaborate or chat about data science, machine learning, or anything tech. Let’s create insights together!
+## 🎓 **Certifications**  
+📜 **Certified Data Scientist (Simplilearn x IBM)** | 2023  
+📜 **AWS Cloud Practitioner** | 2024  
+
+---
+
+## 📚 **Education**  
+🎓 **B.Sc. in Chemistry** | **Kholikote University, Berhampur, Odisha** | **2019**  
+
+---
+
+## 📬 **Let's Connect**  
+📧 **Email**: [sagarchoudhury456@gmail.com](mailto:sagarchoudhury456@gmail.com)  
+🔗 **LinkedIn**: [Sagar Choudhury](https://www.linkedin.com/in/sagarchoudhury456/)  
+🖥 **GitHub**: [Sagar456Choudhury](https://github.com/Sagar456Choudhury)  
+
+💡 I'm open to **collaborations, freelance work, and full-time opportunities.** Let's build **insightful data solutions together! 🚀**  
