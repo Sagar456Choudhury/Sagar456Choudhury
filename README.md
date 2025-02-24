@@ -80,8 +80,9 @@ Welcome to my GitHub! I’m a **Data Analyst with 3 years of experience**, speci
 ---
 
 ## 📬 **Let's Connect**  
-📧 **Email**: [sagarchoudhury456@gmail.com](mailto:sagarchoudhury456@gmail.com)  
-🔗 **LinkedIn**: [Sagar Choudhury](https://www.linkedin.com/in/sagarchoudhury456/)  
+## 📬 Let's Connect
+📧 **Email**: [sagarchoudhury5696@gmail.com](mailto:sagarchoudhury5696@gmail.com)  
+🔗 **LinkedIn**: [Sagar Choudhury](https://www.linkedin.com/in/sagar-choudhury-72a61b352/)  
 🖥 **GitHub**: [Sagar456Choudhury](https://github.com/Sagar456Choudhury)  
 
 💡 I'm open to **collaborations, freelance work, and full-time opportunities.** Let's build **insightful data solutions together! 🚀**  
